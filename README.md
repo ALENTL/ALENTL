@@ -1,7 +1,7 @@
 ### [👋 Hi My name is ALEN TL](https://telegram.dog/ALENTL)
 
 <!--
-**ALENTL/ALENTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**ALENTL/ALENTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
