@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Available 👇
 
-![ALEN TL - Telegram](https://telegram.dog/ALENTL) | [ALEN TL - YouTube](https://www.youtube.com/channel/UCMPMVeicrQvkGQgUrOsxgpg) | [ALEN TL - QUORA](https://www.quora.com/profile/LAIJU-TL-1) |
+![ALEN TL - Telegram](https://telegram.dog/ALENTL) | [ALEN TL - YouTube](https://www.youtube.com/channel/UCMPMVeicrQvkGQgUrOsxgpg) | [ALEN TL - QUORA](https://www.quora.com/profile/LAIJU-TL-1) | [ALEN TL - TWITTER](https://twitter.com/ALENTL3)
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ALENTL/&title=Profile%20Views)
