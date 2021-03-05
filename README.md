@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ALENTL&show_icons=true&theme=algolia&locale=en&layout=compact" alt="ALENTL" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALENTL&hide=prs&count_private=true&show_icons=true&theme=algolia">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALENTL&hide=prs&count_private=true&show_icons=true&theme=tokyonight">
 
 ### 📫 How to reach me
 <a href="https://telegram.dog/ALEN_TL"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></a><a href="https://www.instagram.com/alentl5000"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://github.com/ALENTL"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a><a href="https://gitlab.com/ALENTL"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"><a href="mailto:alentl5000@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alentl5000@gmail.com"/></a>
