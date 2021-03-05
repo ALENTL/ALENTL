@@ -1,7 +1,7 @@
 ### [👋 Reach me on Telegram](https://telegram.dog/ALENTL)
 ### Hello There,<img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">This is ALEN TL<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/ALENTL) [![telegram badge](https://img.shields.io/badge/ALENTL-30302f?style=flat&logo=telegram)](https://telegram.dog/ALEN_TL) [!Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ALENTL/) [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-films_and_trends-RED.svg)](https://telegram.dog/ALEN_TL)
+[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/ALENTL) [![telegram badge](https://img.shields.io/badge/ALENTL-30302f?style=flat&logo=telegram)](https://telegram.dog/ALEN_TL) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RincemonReji/) [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-films_and_trends-RED.svg)](https://telegram.dog/ALEN_TL)
 
 - 🔭 I’m currently working on Mirroring-projects
 - 🌱 I’m currently learning Python+Bash
