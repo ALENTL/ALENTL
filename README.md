@@ -19,4 +19,4 @@
 
 ### 🙄😎Eat🥣, Travel🚄, Soccer⚽, Movies🎬, Fork🍴 - Repeat 😁😁
  
-[![Support](https://cdn.buymeacoffee.com/buttons/v2/default-white.png)]="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">
+[![Support](https://cdn.buymeacoffee.com/buttons/v2/default-white.png)]
