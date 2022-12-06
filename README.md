@@ -57,7 +57,7 @@
 
 <!-- Github Statistics Cards -->
 
-[![ALEN GitHub stats](https://github-readme-stats.vercel.app/api?username=alentl&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=darkula&include_all_commits=true&hide_rank=false)]
+![ALEN GitHub stats](https://github-readme-stats.vercel.app/api?username=alentl&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=darkula&include_all_commits=true&hide_rank=false)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alentl&theme=react&custom_title=Most-Used-Languages)](https://github.com/ALENTL/github-readme-stats) 
