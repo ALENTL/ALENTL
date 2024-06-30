@@ -14,14 +14,7 @@
 
 <!-- Social Media Handles -->
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left">
-<a href="https://instagram.com/alentl1398" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alentl1398" height="30" width="40" /></a>  
-<a href="https://github.com/ALENTL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="alentl1398" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14814181/alen-tl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="alentl1398" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alen-tl-3255631b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alentl1398" height="30" width="40" /></a>
-
-<!-- Social Media Banners -->
+<h3 align="left">Connect with me:</h3>
 
 <a href="https://github.com/ALENTL" target="_blank"> ![Github: ALENTL](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/alen-tl-3255631b6/">![LinkedIn: alen-tl-3255631b6/](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
