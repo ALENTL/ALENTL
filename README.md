@@ -5,21 +5,12 @@
 ## 🛠️ Tech Stack:
 
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
-![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
-![Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
 
 <!-- Social Media Handles -->
 
@@ -38,7 +29,6 @@
 <a href="https://stackoverflow.com/users/14814181/alen-tl" target="_blank"> ![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)</a>
 
 </p>
-
 
 <!-- Language and Tools -->
 
