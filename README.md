@@ -54,6 +54,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alentl&theme=tokyonight&hide_border=true&ring=1EE2BF&fire=E25525)](https://git.io/streak-stats)
 
-[![ALENTL github activity graph](https://activity-graph.herokuapp.com/graph?username=alentl&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ALENTL github activity graph](https://github-readme-stats.vercel.app/api?username=alentl&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alentl&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
