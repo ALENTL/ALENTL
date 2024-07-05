@@ -44,15 +44,12 @@
 
 <!-- Github Statistics Cards -->
 
-<h3 align="left">Github Stats:</h3>
 [![ALEN GitHub stats](https://github-readme-stats.vercel.app/api?username=alentl&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=darkula&include_all_commits=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Top Used Languages:</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alentl&theme=react&custom_title=Most-Used-Languages)](https://github.com/ALENTL/github-readme-stats)
 
 <!-- OS, Language, Website Banners -->
 
-<h3 align="left">Used operating systems:</h3>
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen) ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=silver)
 
 <h3 align="left">Github Streak:</h3>
